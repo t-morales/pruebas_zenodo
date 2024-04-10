@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: prueba zenodo
+message: "Esto es una prueba"
+type: software
+authors:
+  - given-names: Tomás
+    family-names: Morales de Luna
+    email: tmorales@uma.es
+    affiliation: Universidad de Málaga
+    orcid: 'https://orcid.org/0000-0001-7162-9672'
+keywords:
+  - tsunami modeling
+  - hyperbolic equations
+  - multi GPU
+  - nested grids
+  - geophysical flows
+  - shallow water
+  - inundation maps
+license: GPL-2.0
+version: 1.01
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.10956849
+date-released: 2024-04-24
